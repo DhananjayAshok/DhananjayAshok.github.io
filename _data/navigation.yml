@@ -2,9 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-        
-  - title: "Blog Posts"
-    url: "https://medium.com/@dhananjayashok99"
-    
+            
   - title: "CV"
-    url: /cv/
+    url: /files/cv.pdf
