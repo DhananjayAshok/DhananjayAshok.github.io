@@ -10,7 +10,7 @@ date: 2023-05-24
 venue:
 preprint: ''
 header: 
-  teaser: 'publications/promptnerimg.jpg'
+  teaser: 'publications/promptnerimg.jpeg'
 paper: 'https://arxiv.org/abs/2305.15444.pdf'
 code: 'https://github.com/DhananjayAshok/PromptNER' 
 link: ''
