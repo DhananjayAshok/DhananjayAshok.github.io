@@ -10,7 +10,7 @@ date: 2024-05-02
 venue: ''
 preprint: ''
 header: 
-  teaser: 'publications/congenbenchimage.jpeg'
+  teaser: 'publications/congenbenchimage.jpg'
 paper: 'https://arxiv.org/abs/2405.01490'
 code: 'https://github.com/DhananjayAshok/ConGenBench' 
 link: ''
