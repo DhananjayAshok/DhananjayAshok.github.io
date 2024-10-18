@@ -17,7 +17,6 @@ link: ''
 video: ''
 categories:
   - Controllability
-  - NLP
   - Domain Shift
   - Selected Papers
 ---
