@@ -17,7 +17,7 @@ link: ''
 video: ''
 categories:
   - Synthetic Data
-  - Factual Grounding 
+  - Grounding 
   - Selected Papers
 ---
 
