@@ -10,7 +10,7 @@ date: 2024-10-18
 venue:
 preprint: ''
 header: 
-  teaser: 'publications/humandataimg.jpeg'
+  teaser: 'publications/humandataimg.png'
 paper: 'https://arxiv.org/abs/2410.13098'
 code: 'https://github.com/DhananjayAshok/PromptNER' 
 link: ''
