@@ -16,7 +16,6 @@ code: 'https://github.com/DhananjayAshok/ConGenBench'
 link: ''
 video: ''
 categories:
-  - NLP
   - Controllable Text Generation
   - Domain Shift
 ---
