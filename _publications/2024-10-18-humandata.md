@@ -12,7 +12,7 @@ preprint: ''
 header: 
   teaser: 'publications/humandataimage.jpg'
 paper: 'https://arxiv.org/abs/2410.13098'
-code: 'https://github.com/DhananjayAshok/PromptNER' 
+code: 'https://github.com/DhananjayAshok/LittleHumanData' 
 link: ''
 video: ''
 categories:
