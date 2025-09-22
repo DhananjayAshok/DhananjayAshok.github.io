@@ -6,7 +6,7 @@ award: ""
 collection: publications
 permalink: /publication/dib
 tldr: 'Performance declines associated with replacing human generated data with synthetic data is most chronic only after crossing 90% replacement.'
-date: 2024-10-18
+date: 2025-07-18
 venue: 'ACL 2025'
 preprint: ''
 header: 
