@@ -10,7 +10,7 @@ date: 2025-08-22
 venue: 'EMNLP 2025'
 preprint: ''
 header: 
-  teaser: 'publications/behaviorimage.png'
+  teaser: 'publications/vlmgroundingimage.png'
 paper: 'https://arxiv.org/abs/2508.18297'
 code: 'https://github.com/DhananjayAshok/VLM_Grounding' 
 link: ''
