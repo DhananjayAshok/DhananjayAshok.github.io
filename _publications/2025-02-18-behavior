@@ -1,0 +1,20 @@
+---
+title: "Language Models Can Predict Their Own Behavior"
+authors_before: ""
+authors_after: ", Jonathan May"
+award: ""
+collection: publications
+permalink: /publication/dib
+tldr: 'Conformal probes trained on the hidden states of LMs can preemptively detect a variety of downstream behaviors, including susceptibility to jailbreaking, low confidence responses and alignment failures. '
+date: 2025-02-18
+venue: 'NeurIPS 2025'
+preprint: 'https://arxiv.org/abs/2502.13329'
+header: 
+  teaser: 'publications/humandataimage.jpg'
+paper: 'https://neurips.cc/virtual/2025/poster/116590'
+code: 'https://github.com/DhananjayAshok/LMBehaviorEstimation' 
+link: ''
+video: ''
+categories:
+  - Selected Papers
+---
