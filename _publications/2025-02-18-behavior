@@ -10,7 +10,7 @@ date: 2025-02-18
 venue: 'NeurIPS 2025'
 preprint: 'https://arxiv.org/abs/2502.13329'
 header: 
-  teaser: 'publications/humandataimage.jpg'
+  teaser: 'publications/behaviorimage.png'
 paper: 'https://neurips.cc/virtual/2025/poster/116590'
 code: 'https://github.com/DhananjayAshok/LMBehaviorEstimation' 
 link: ''
