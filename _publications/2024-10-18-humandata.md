@@ -11,7 +11,7 @@ venue: 'ACL 2025'
 preprint: ''
 header: 
   teaser: 'publications/humandataimage.jpg'
-paper: 'https://arxiv.org/abs/2410.13098'
+paper: 'https://aclanthology.org/2025.acl-short.30/'
 code: 'https://github.com/DhananjayAshok/LittleHumanData' 
 link: ''
 video: ''
