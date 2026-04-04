@@ -1,0 +1,21 @@
+---
+title: "A Representation Sharpening Framework for Zero Shot Dense Retrieval"
+authors_before: ""
+authors_after: "Suraj Nair, Mutasem Al-Darabsah, Choon Hui Teo, Tarun Agarwal, Jonathan May"
+award: ""
+collection: publications
+permalink: /publication/dib
+tldr: 'We improve Information Retrieval with a training-free method that can be added to any dense retriever.'
+date: 2026-01-04
+venue: 'EACL 2026'
+preprint: ''
+header: 
+  teaser: 'publications/consharp.png'
+paper: 'https://aclanthology.org/2026.eacl-long.173/'
+code: '' 
+link: ''
+video: ''
+categories:
+  - Synthetic Data
+  - Retrieval
+---
